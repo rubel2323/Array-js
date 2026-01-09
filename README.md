@@ -1,2 +1,2 @@
-# Array-js
+## Array-js
 Practice demo
